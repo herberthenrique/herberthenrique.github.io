@@ -18,7 +18,8 @@ These are the reasons why we choose Golang (therefore dropping ruby) between all
 
 # 1 - Hiring
 
-This is one of our main priorities since SumUp is a hyper-growth company that is doubling the size of engineers every year we need to choose a language that people want to use and it’s much simpler to onboard engineers that have never seen the code before, getting them productive early with Go.
+This is one of our main priorities since SumUp is a hyper-growth company that is doubling the size of engineers every year,
+We need to choose a language that people want to use and it’s much simpler to onboard engineers that have never seen the code before, getting them productive early with Go.
 
 Go was between the most loved and wanted languages in the [Stack Overflow Survey 2019](https://insights.stackoverflow.com/survey/2019#most-loved-dreaded-and-wanted) and this means we can have an idea that new engineers would like to work with this language.
 
@@ -30,6 +31,12 @@ Our developers had a lot of experience with the Object-Oriented Paradigm and a c
 
 Go is very explicit, focusing on making exactly what’s going on very clear. There is no magic, no implicitness.
 
+In this point, I really loved the team super happy to learn a new language, we even host a Go Meetup in São Paulo to talk about was going our experience with go.
+
+<img src="/assets/go_sumup.jpg" alt="Golang meetup at SumUp in São Paulo" />
+
+> [Isabela Comegna](https://www.linkedin.com/in/isabela-comegna-dos-santos/) talking about our team experience with Go in the GoLang SP Meetup
+
 # 3 - It’s a compiled, statically typed language.
 
 I'll tell you a secret if don't work today with a typed language today: You're gonna love it or hate it.
@@ -38,7 +45,7 @@ In case you hate, you will only be able to see the biggest benefits of working w
 
 In the end, software's biggest cost lives in maintaining and not in the time you spent creating the code. Typed languages will help you a lot to find out how the software is working.
 
-The types will also help you to find out about errors in the early stage of the development process.
+statically types will also help you to find out about errors in the early stage of the development process.
 
 Static typing usually results in compiled code that executes quickly. The compiler knows the exact data types that are in use, it can produce optimized machine code.
 
@@ -57,6 +64,7 @@ Go also comes with a test framework, so you have all the basic to already create
 We work with the concept of squads and tribes as per [The Spotify Tribe Engineering Model](https://medium.com/scaled-agile-framework/exploring-key-elements-of-spotifys-agile-scaling-model-471d2a23d7ea) and my squad was inside a tribe that has many programming languages. We wanted to have a common language that all our squads could use, this means that any engineer can switch the squad she's working and start to deliver value super fast. I know, this is a little bit against being a multilanguage company, but in our tribe we do see that as the main benefit of using Go as our main language.
 
 This is really good for the company, but also for developers who want to change the current context a little or maybe live in another country.
+Our tribe has squads in two locations, Berlin and São Paulo. If someone wants to move and continue working in the tribe, they won’t have technological issues
 We had some of these experiences of a software engineer who had [a life between two continents](https://medium.com/inside-sumup/life-as-a-sumup-software-engineer-across-2-continents-c64e626eeee7).
 
 # 6 - No Silver Bullet
@@ -75,7 +83,7 @@ Go also has incredible libraries names like [Gin Gonic](https://github.com/gin-g
 
 --
 
-### Are you using to use in your company or intent to use?
+### Are you using Go in your company or intent to use?
 
 How is your experience with Go? Are you enjoying work or learn this language? Send me a tweet and tell me your experience at [@herberth3nrique](https://twitter.com/herberth3nrique).
 
