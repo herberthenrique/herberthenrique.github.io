@@ -33,7 +33,7 @@ Go is very explicit, focusing on making exactly what’s going on very clear. Th
 
 In this point, I really loved the team super happy to learn a new language, we even host a Go Meetup in São Paulo to talk about was going our experience with go.
 
-<img src="/assets/go_sumup.jpg" alt="Golang meetup at SumUp in São Paulo" />
+<img src="/assets/go_sumup_meetup.jpg" alt="Golang meetup at SumUp in São Paulo" />
 
 > [Isabela Comegna](https://www.linkedin.com/in/isabela-comegna-dos-santos/) talking about our team experience with Go in the GoLang SP Meetup
 
