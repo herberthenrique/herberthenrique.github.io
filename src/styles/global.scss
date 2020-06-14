@@ -463,3 +463,13 @@ blockquote {
   font-size: 14px;
   margin-bottom: 24px;
 }
+
+.social-share {
+  max-width: 768px;
+  margin-top: 18px;
+  margin: 0 auto;
+
+  .social-share__separator {
+    margin: 18px 0;
+  }
+}
