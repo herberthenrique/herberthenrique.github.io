@@ -88,10 +88,10 @@ Every month, we have a meeting called All Hands with all the engineer team and w
 
 How do you run post mortem in your company? Did you like it? Or had you been in a "find the guilty meeting"?
 
-Also, I would like to thanks a lot Hernandes Sousa, our Lead Site Reliability Engineer at SumUp who taught me a lot about what is DevOps and how we can evolve with learning.
+Also, I would like to thanks a lot [Hernandes Sousa](https://twitter.com/hernandes), our Lead Site Reliability Engineer at SumUp who taught me a lot about what is DevOps and how we can evolve with learning.
 
 If you wanna know more about DevOps and SRE, don't forget the read [Google's SRE books](https://landing.google.com/sre/books/) or the amazing The DevOps Handbook
 
 **We have jobs open for [SRE Engineer at SumUp](https://sumup.com/careers/positions/s%c3%a3o-paulo-brazil/engineering/devops-engineer/4515680002/), come talk with me or Hernandes if you're interested.**
 
-Are you doing postmortem meetings at your company? How it's going send me a tweet at @herberth3nrique!
+Are you doing postmortem meetings at your company? How it's going [send me a tweet at @herberth3nrique](https://twitter.com/herberth3nrique)!
