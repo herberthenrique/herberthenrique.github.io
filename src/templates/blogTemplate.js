@@ -52,6 +52,33 @@ export default function Template({
             className="blog-post-content"
             dangerouslySetInnerHTML={{ __html: html }}
           />
+          <div className="social-share">
+            <hr className="social-share__separator" />
+            <p>
+              Share on{" "}
+              <a
+                href={`https://twitter.com/share?text=${frontmatter.title} via @${siteMetadata.twitter}&url=http://herberthenrique.com${frontmatter.path}`}
+                onclick="window.open(this.href, 'twitter-share', 'width=550,height=235'); return false;"
+              >
+                Twitter
+              </a>
+              ,{" "}
+              <a
+                href={`https://news.ycombinator.com/submitlink?u=http://herberthenrique.com${frontmatter.path}&t=${frontmatter.title}`}
+                onclick="window.open(this.href, 'hn-share', 'width=550,height=350'); return false;"
+              >
+                Hacker News
+              </a>{" "}
+              or{" "}
+              <a
+                href={`https://www.linkedin.com/sharing/share-offsite/?url=http://herberthenrique.com${frontmatter.path}&t=${frontmatter.title}`}
+                onclick="window.open(this.href, 'hn-share', 'width=550,height=350'); return false;"
+              >
+                LinkedIn
+              </a>
+              .
+            </p>
+          </div>
         </article>
       </div>
     </Layout>
@@ -63,6 +90,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        twitter
       }
     }
     markdownRemark(frontmatter: { path: { eq: $path } }) {
