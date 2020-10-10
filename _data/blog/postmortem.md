@@ -1,10 +1,11 @@
 ---
 template: BlogPost
 path: /postmortem-meeting
-date: 2020-06-15T10:00:00.000Z
+date: 2020-10-10T16:00:07.958Z
 title: "Postmortem meetings: what are, how to conduct and the benefits"
 metaDescription: >-
-  What are postmortem meetings? How post meetings are related to culture and DevOps?
+  What are postmortem meetings? How post meetings are related to culture and
+  DevOps?
 
   I try to brief summarize a lot of concepts and start talking about SRE and DevOps with the postmortem that must occur after every incident!
 thumbnail: /assets/postmortem-learning.jpg
