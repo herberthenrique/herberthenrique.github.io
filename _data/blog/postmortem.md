@@ -28,6 +28,10 @@ The chapter in the book, in summary, talks about **learning.**
 
 The meeting is done not to find guilty or who we gonna blame this time, **they're made to understand how can we improve and learn from our mistakes.**
 
+
+The main focus of this meeting is on finding the procedural or tooling problems that caused the incident. The point is that if you had an incident because someone made a manual error, perhaps the problem is the manual process and not the person's mistake
+-
+
 > "The cost of failure is education."
 
 _Devin Carraway_
@@ -40,7 +44,9 @@ The person who will conduct this ceremony needs to follow a few strategies to ex
 
 Avoid blame and don't try to find who's guilty when something bad happens. We're humans and make mistakes, but more important is that we should learn from our mistakes to avoid them in the future. If we're afraid, to be honest, and people point fingers saying things like: "wow, so the downtime was your fault". How can we learn? How can we find the root cause?
 
-**Don't blame people, they make mistakes. We must learn with mistakes to make adjustments.**
+Not blaming humans should be a mantra within an organization, [Dave Zwieback](https://twitter.com/mindweather) in “The human side of Postmortems” points out: “Your organization must continually claim that individuals will never be the 'root cause' of disruptions”, this should be reinforced by team and organization leaders, otherwise Postmortem will tend to blame human error.
+
+**Don't blame people, they make mistakes. We must learn with mistakes to make improvements.**
 
 I like to remember the prime directive of retrospectives at the beginning of every postmortem meeting.
 
@@ -82,13 +88,15 @@ This is super important, and maybe we don't value enough. If something doesn't h
 
 Here at SumUp, we do something super nice to make sure that we understand that incidents happen and should be open with this.
 
-Every month, we have a meeting called All Hands with all the engineer team and we present the biggest incident of the month. So, we talked about what the team learned and how can we can keep avoiding new mistakes.
+Every month, we have a meeting called All Hands with all the engineering team and we present the biggest incident of the month. So, we talked about what the team learned and how can we can keep avoiding new mistakes.
+
+Also, we have an open calendar of postmortems, where you can join the ones you think you can learn something from it.
 
 ## What to know more about it?
 
-How do you run post mortem in your company? Did you like it? Or had you been in a "find the guilty meeting"?
+How do you run post mortem in your company? Did you like it? have you been in a "find the guilty meeting"?
 
-Also, I would like to thanks a lot [Hernandes Sousa](https://twitter.com/hernandes), our Lead Site Reliability Engineer at SumUp who taught me a lot about what is DevOps and how we can evolve with learning.
+Also, I would like to thanks a lot [Hernandes Sousa](https://twitter.com/hernandes), our Brazil SRE Manager at SumUp who taught me a lot about what is DevOps and how we can evolve with learning.
 
 If you wanna know more about DevOps and SRE, don't forget the read [Google's SRE books](https://landing.google.com/sre/books/) or the amazing The DevOps Handbook
 
