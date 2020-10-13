@@ -101,6 +101,6 @@ Also, I would like to thanks a lot [Hernandes Sousa](https://twitter.com/hernand
 
 If you wanna know more about DevOps and SRE, don't forget the read [Google's SRE books](https://landing.google.com/sre/books/) or the amazing The DevOps Handbook
 
-**We have jobs open for [SRE Engineer at SumUp](https://sumup.com/careers/positions/s%c3%a3o-paulo-brazil/engineering/devops-engineer/4515680002/), come talk with me or Hernandes if you're interested.**
+**We have jobs open for [SRE/DevOps Engineer at SumUp](https://sumup.com/careers/positions/s%c3%a3o-paulo-brazil/engineering/devops-engineer/4515680002/), come talk to me or Hernandes if you're interested.**
 
 Are you doing postmortem meetings at your company? How it's going [send me a tweet at @herberth3nrique](https://twitter.com/herberth3nrique)!
