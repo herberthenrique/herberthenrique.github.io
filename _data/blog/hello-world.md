@@ -12,7 +12,7 @@ metaDescription: >-
   Every day, in some way, I'm helping people and solving problems.
 
 
-  That's why I work as Software Engineer and Frontend Lead at [@SumUp](https://twitter.com/sumupeng), empowering small businesses across the world.
+  That's why I work as Engineer Manager at [@SumUp](https://twitter.com/sumupeng), empowering small businesses across the world.
 
 
   Also, I love javascript, functional programming and terrible jokes 🤷‍♂️
@@ -24,6 +24,6 @@ thumbnail: /assets/img_2376_fotor.jpg
 My name is Herbert and I try to write code for humans for more than 10 years now. 👨‍💻
 Everyday, in some way, I'm helping people and solving problems.
 
-That's why I work as software engineer and frontend lead at [@SumUp](https://twitter.com/sumupeng), empowering small businesses across the world.
+That's why I work as Engineer Manager at [@SumUp](https://twitter.com/sumupeng), empowering small businesses across the world.
 
 Also, I love javascript, functional programming and terrible jokes 🤷‍♂️
