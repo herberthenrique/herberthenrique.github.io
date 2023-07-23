@@ -1,12 +1,13 @@
 import React from "react";
 import { StaticQuery, graphql, Link } from "gatsby";
-export default () => (
+
+const HeroHeader =  () => (
   <StaticQuery
     query={graphql`
       query HeadingQuery {
         site {
           siteMetadata {
-            home {
+            home { 
               title
               description
             }
@@ -30,3 +31,5 @@ export default () => (
     )}
   />
 );
+
+export default HeroHeader;
